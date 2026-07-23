@@ -39,11 +39,5 @@ int main(){
         default:
         cout << "Invalid Input" << endl;
     }
-    // int f = 5;
-    // int f2 = 7;
-    // for(int i = f; i<=f2; i++){
-    //     cout << f<< endl;
-    //     f = f+f2;
-    // }
     return 0;
 }
